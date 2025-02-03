@@ -1,0 +1,10 @@
+Test file for cat
+	Tab
+Empty line:
+
+
+
+Non-printable characters:
+Backspace: 
+Vertical tab: 
+
